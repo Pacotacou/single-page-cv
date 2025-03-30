@@ -2,6 +2,9 @@
 
 A clean, simple HTML/CSS template for creating a professional CV/resume that fits on a single page.
 
+## Project URL
+[Project URL](https://roadmap.sh/projects/single-page-cv)
+
 ## Overview
 
 This template provides a minimalist yet professional layout for your resume with:
